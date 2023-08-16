@@ -9,11 +9,8 @@
 
 - [Description](#description)
 - [User Story](#UserStory)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Future Development](#futureDevelopment)
-- [Credits](#credits)
-- [License](#license)
+
+
 
 ## Description:
 
@@ -33,8 +30,6 @@ I WANT an API for my social network that uses a NoSQL database
 SO THAT my website can handle large amounts of unstructured data
 
 ## Technologies Used: 
-
-WheelWisdom was built with the following technologies:
 
 -NoSQL
 
